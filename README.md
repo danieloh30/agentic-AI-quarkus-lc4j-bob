@@ -1,4 +1,4 @@
-# Parasol — Demo
+# Agentic AI with Quarkus and IBM Bob Demo
 
 This repository contains two Quarkus-based projects that work together:
 
